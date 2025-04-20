@@ -32,7 +32,7 @@
   <a href="mailto:fuadsano460@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
-  <a href="https://t.me/sallamseeker1" target="_blank">
+  <a href="https://t.me/salaamseeker1" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=26A5E4&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
   <a href="tel:+251968094406" target="_blank">
