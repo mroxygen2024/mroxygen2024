@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I am Fuad Sano, a passionate Full-Stack Developer from Ethiopia 🇪🇹</h2>
+<h2 align="left">Hi! I am Fuad Sano, a Full-Stack Developer from Ethiopia 🇪🇹</h2>
 
 ###
 
