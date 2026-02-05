@@ -32,7 +32,7 @@
 ###
 
 <div align="left">
-  <a href="https://fuad-sano1.vercel.app/" target="_blank">
+  <a href="https:///" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
   <a href="https://linkedin.com/in/fuad-sano" target="_blank">
