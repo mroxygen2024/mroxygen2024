@@ -1,58 +1,138 @@
-<h2 align="left">Hi! I am Fuad Sano, a Full-Stack Developer from Ethiopia 🇪🇹</h2>
+```md
+<div align="center">
 
-###
+# Hi 👋, I'm Fuad Sano
+
+### Full-Stack Developer from Ethiopia 🇪🇹
+
+Building scalable web applications, AI-powered systems, and developer tools that solve real-world problems.
+
+<p>
+  <a href="mailto:contacts.fuad@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/fuad-sano-b41839360">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/mroxygen2024">
+    <img src="https://img.shields.io/github/followers/mroxygen2024?style=for-the-badge&logo=github" alt="Followers"/>
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=mroxygen2024&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
+
+</div>
+
+---
+
+## 🚀 About Me
+
+- 💻 Full-Stack Developer passionate about building impactful software
+- 🤖 Interested in AI Agents, RAG Systems, and Intelligent Automation
+- 🏗️ Learning System Design and Scalable Architectures
+- 🌱 Continuously exploring new technologies and solving challenging problems
+- 🚀 Turning ideas into production-ready applications
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,vite,nextjs,nodejs,express,mongodb,postgres,python,java,cpp,html,css,bootstrap,docker,git,github,vscode,figma" />
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+### 📚 MegaBookStore
+A full-stack bookstore platform with authentication, admin document ingestion, and a Retrieval-Augmented Generation (RAG) assistant for contextual question answering.
+
+**Tech:** React • TypeScript • Node.js • Express • MongoDB • RAG
+
+---
+
+### 💰 BirrWise
+A personal finance management application with AI-powered chat, budgeting, and transaction tracking.
+
+**Tech:** React • TypeScript • Node.js • MongoDB • AI Integration
+
+---
+
+### 💬 TeleChat
+A real-time messaging platform inspired by Telegram, enabling secure and reliable one-to-one communication with a modern user experience.
+
+**Tech:** React • TypeScript • Node.js • Express • Socket.IO
+
+---
+
+### 🛒 Buytopia
+A full-stack e-commerce application with authentication, product management, and shopping features.
+
+**Tech:** JavaScript • React • Node.js • MongoDB
+
+---
+
+## 🔥 Current Focus
+
+- 🤖 AI Agents & Multi-Agent Systems
+- 📚 Retrieval-Augmented Generation (RAG)
+- 🏗️ Production-Level System Design
+- ⚡ Developer Tools & Automation
+- ☁️ Cloud & DevOps
+- 🚀 Building real-world full-stack applications
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats-fuads-projects-72074421.vercel.app/api?username=mroxygen2024&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false&cache_seconds=86400" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-fuads-projects-72074421.vercel.app/api/top-langs?username=mroxygen2024&layout=compact&langs_count=6&theme=dracula&hide_border=false&cache_seconds=86400" height="150" alt="Top Languages" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mroxygen2024&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mroxygen2024&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+
+<img height="170" src="https://streak-stats.demolab.com?user=mroxygen2024&theme=github-dark&hide_border=true" />
+
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="Coding GIF" />
+## 📈 Contribution Activity
 
-###
+<div align="center">
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="30" alt="Vite" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="Express" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="Bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mroxygen2024&theme=github-dark&hide_border=true&area=true" />
+
 </div>
 
-###
+---
 
-<div align="left">
-  <a href="https:///" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://linkedin.com/in/fuad-sano" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-  <a href="mailto:fuadsano460@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://t.me/salaamseeker1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=26A5E4&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-  <a href="tel:+251968094406" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Phone&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mroxygen2024&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" />
+
 </div>
 
-###
+---
 
-<br clear="both">
+## 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<div align="center">
 
-###
+![Snake animation](https://github.com/mroxygen2024/mroxygen2024/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Building software that is useful, scalable, and intelligent."
+
+⭐ Feel free to explore my repositories and connect with me!
+
+</div>
+```
