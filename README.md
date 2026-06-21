@@ -1,4 +1,4 @@
-```md
+
 <div align="center">
 
 # Hi 👋, I'm Fuad Sano
@@ -135,4 +135,3 @@ A full-stack e-commerce application with authentication, product management, and
 ⭐ Feel free to explore my repositories and connect with me!
 
 </div>
-```
