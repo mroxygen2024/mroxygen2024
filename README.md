@@ -112,7 +112,7 @@ A full-stack e-commerce application with authentication, product management, and
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mroxygen2024&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" />
+<img src="https://gh-trophy.cdnsoft.net/?username=mroxygen2024&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" />
 
 </div>
 
@@ -122,7 +122,11 @@ A full-stack e-commerce application with authentication, product management, and
 
 <div align="center">
 
-![Snake animation](https://github.com/mroxygen2024/mroxygen2024/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mroxygen2024/mroxygen2024/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mroxygen2024/mroxygen2024/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/mroxygen2024/mroxygen2024/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
 
 </div>
 
@@ -132,6 +136,6 @@ A full-stack e-commerce application with authentication, product management, and
 
 ### 💡 "Building software that is useful, scalable, and intelligent."
 
-⭐ Feel free to explore my repositories and connect with me!
+⭐ Feel free to connect with me!
 
 </div>
