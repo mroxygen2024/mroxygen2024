@@ -14,7 +14,7 @@ Building scalable web applications, AI-powered systems, and developer tools that
   <a href="https://www.linkedin.com/in/fuad-sano-b41839360">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://fuadsano.vercel.app/">
+  <a href="https://www.fuadsano.live/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://github.com/mroxygen2024">
