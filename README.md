@@ -91,13 +91,15 @@ A full-stack e-commerce application with authentication, product management, and
 
 <div align="center">
 
-<img height="170" src="https://github-stats-extended.vercel.app/api?username=mroxygen2024&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=mroxygen2024&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mroxygen2024&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mroxygen2024&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 
-<img height="170" src="https://streak-stats.demolab.com?user=mroxygen2024&theme=github-dark&hide_border=true" />
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api/streak/?username=mroxygen2024&theme=github-dark&hide_border=true" />
 
 </div>
+
+> **Note:** To show private contributions, deploy your own instance of [github-readme-stats-fast](https://github.com/pranesh-2005/github-readme-stats-fast) on Vercel with your GitHub Personal Access Token (PAT). The `count_private=true` parameter requires your own deployment with repo access.
 
 ---
 
@@ -115,7 +117,7 @@ A full-stack e-commerce application with authentication, product management, and
 
 <div align="center">
 
-<img src="https://gh-trophy.cdnsoft.net/?username=mroxygen2024&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=mroxygen2024&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" />
 
 </div>
 
