@@ -99,23 +99,13 @@ A full-stack e-commerce application with authentication, product management, and
 
 </div>
 
----
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mroxygen2024&theme=github-dark&hide_border=true&area=true" />
-
-</div>
-
----
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mroxygen2024&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" />
+<img src="https://github-trophies.devomb.com/?username=mroxygen2024&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" />
 
 </div>
 
