@@ -91,11 +91,11 @@ A full-stack e-commerce application with authentication, product management, and
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-fast-pearl.vercel.app/api?username=mroxygen2024&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats-fast-pearl.vercel.app/api?username=mroxygen2024&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&cache_v=2" />
 
-<img height="170" src="https://github-readme-stats-fast-pearl.vercel.app/api/top-langs/?username=mroxygen2024&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+<img height="170" src="https://github-readme-stats-fast-pearl.vercel.app/api/top-langs/?username=mroxygen2024&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_v=2" />
 
-<img height="170" src="https://github-readme-stats-fast-pearl.vercel.app/api/streak/?username=mroxygen2024&theme=github-dark&hide_border=true" />
+<img height="170" src="https://github-readme-stats-fast-pearl.vercel.app/api/streak/?username=mroxygen2024&theme=github-dark&hide_border=true&cache_v=2" />
 
 </div>
 
