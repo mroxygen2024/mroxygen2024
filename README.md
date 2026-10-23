@@ -30,7 +30,8 @@ Building scalable web applications, AI-powered systems, and developer tools that
 
 ## 🚀 About Me
 
-- 💻 Full-Stack Developer passionate about building impactful software
+- 💻 I'm a software engineer who thrives on building complex, high-performance systems. My work bridges modern AI capabilities with production-grade applications.
+     I specialize in AI automation and RAG architectures, building systems that automate business tasks and make software smarter.
 - 🤖 Interested in AI Agents, RAG Systems, and Intelligent Automation
 - 🏗️ Learning System Design and Scalable Architectures
 - 🌱 Continuously exploring new technologies and solving challenging problems
